@@ -2,7 +2,12 @@
 name = "casol"
 version = "0.1.0"
 edition = "2021"
-
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+license = "MIT"
+description = "A chess engine at the speed of light."
+readme = "README.md"
+homepage = "https://github.com/0xKitsune/casol"
+repository = "https://github.com/0xKitsune/casol"
+keywords = ["chess", "engine"]
 
 [dependencies]
+
